@@ -1,0 +1,10 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  background: #ec6952;
+}
+.navigation img {
+  height: 50px;
+  padding-left: 10px;
+}
